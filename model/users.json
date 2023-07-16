@@ -1,0 +1,4 @@
+[
+    {"username":"Test","roles":{"User":2001},"password":"$2b$10$s.7CznpdKE1mz/yc3MM/C.As6UrpTBDLiecjVL3BI02M7P1wxX4du","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlRlc3QiLCJpYXQiOjE2ODk1MjQzMjQsImV4cCI6MTY4OTYxMDcyNH0.cJtavr628IrYVXUD98qMUYk8Or1Zpz5IIOV9UL3U2M8"},
+    {"username":"msgina","roles":{"User":2001,"Editor":1984},"password":"$2b$10$tPs8LMtRa7Z2Pln9Gp3qRebV/HN3UbxgZ9VrlmaXb58c6k9004faG","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1zZ2luYSIsImlhdCI6MTY4OTUyNTQwMCwiZXhwIjoxNjg5NjExODAwfQ.hl456eFwB68RHCz-NB9nscrd723er75GNbJKLEhv974"},
+    {"username":"mrpindro","roles":{"User":2001,"Editor":1984,"Admin":5150},"password":"$2b$10$pCrdgbIdXkvHW89fQYqPwOyAsuHloDvUm/4/UyV8FBM6FN1NJ/gSu","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1ycGluZHJvIiwiaWF0IjoxNjg5NTI1NDU2LCJleHAiOjE2ODk2MTE4NTZ9.jdTo_q_Ql6W89P2kfu823z12YowJbQyvBNsPBRiqTr8"}]

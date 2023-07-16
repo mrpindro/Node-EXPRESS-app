@@ -1,0 +1,4 @@
+07/07/2023	10:49:26	e5fa51ee-d38c-4d34-9183-12a2720f776d	TypeError: fsPromises.readFil is not a function
+09/07/2023	20:13:55	05331e84-e0d8-496b-8296-b3e3321fab5d	Error: Not allowed by cors
+09/07/2023	20:47:08	2b80dba4-ad88-48df-a40c-64d34eca34e0	TypeError: req.includes is not a function
+10/07/2023	12:50:31	df71c40a-e4b7-4634-846b-f8b776100979	Error: ENOENT: no such file or directory, stat '/Users/mrpindro/Node-app/routes/index.html'
